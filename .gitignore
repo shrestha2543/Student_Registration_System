@@ -1,0 +1,8 @@
+# Ignore compiled Java execution binaries
+*.class
+
+# Ignore Code Runner temporary snippet files
+tempCodeRunnerFile.java
+
+# Ignore VS Code local settings
+.vscode/
