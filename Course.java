@@ -1,4 +1,5 @@
-public class Course {
+public class Course 
+{
     private String courseCode;
     private String title;
     private int credits;
