@@ -1,4 +1,4 @@
-# Project Statement: Student Registration System
+# Student Registration System
 
 ## Problem Statement:
 Educational institutions often face difficulties in managing student course enrollments manually or through tools. This can create issues such as exceeding course limits, duplicate student registrations, and a lack of real-time data tracking.IN order to resolve this issue,an automated, structured system is needed to manage academic records,enable capacity rules, and track enrollments efficiently.
